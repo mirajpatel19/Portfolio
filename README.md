@@ -13,8 +13,8 @@ Here are the projects that I have worked on outside of school and work. Projects
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;profitable movies? and what is the average duration of top 5 most profitable movie? In the end, I am able to predict 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what qualities makes a movie blockbuster. For a movie to be a blockbuster it must have genres as either drama, comedy, 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thriller, action, or adventure. Some of these casts such as Samuel L. Jackson, Robert De Niro, Bruce Willis, Matt Damon, 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Morgan Freeman. The average runtime should be around 111 minutes. The movie must be in these languages: English, Français, 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Español, Deutsch, and Pусский. The average budget must be around 43 million dollars. It a movie has 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Morgan Freeman. The average runtime should be around 111 minutes. The movie must be in these languages: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English, Français, Español, Deutsch, and Pусский. The average budget must be around 43 million dollars. It a movie has 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;all of those things, on average the movie will have a profit of around 111 million dollars.<br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TED Talks**<br />
@@ -23,7 +23,8 @@ Here are the projects that I have worked on outside of school and work. Projects
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titanic**<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Jupyter Notebook](https://github.com/mirajpatel19/Portfolio/blob/master/Projects/Data%20Exploratory/Titanic%20-%20Exploratory%20Data%20Analysis.ipynb)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summary of it. *Fun Fact:Titanic dataset was not the first dataset I actually worked on. Majority of beginner actually start learning on the dataset.*<br />  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summary of it. *Fun Fact:Titanic dataset was not the first dataset I actually worked on. Majority of beginner actually start 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;learning on the dataset.*<br />  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**NBA Stats - Los Angeles Lakers**<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Jupyter Notebook](https://github.com/mirajpatel19/Portfolio/blob/master/Projects/Data%20Exploratory/2010-2017%20NBA%20Stats%20Analyzing%20to%20find%20best%20basketball%20shooters%20for%20Los%20Angeles%20Lakers.ipynb)<br />
