@@ -22,13 +22,17 @@ Here are the projects that I have worked on outside of school and work. Projects
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is my first data exploratory project. I had to learn many new things while working on this project. Big thanks and the 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;credit goes to Rounak Banik for the inspiration. In this project I answer question such as, most funny TED Talks show,  with 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what occupation can you increase you chances of being a TED Talk speaker, most inspiring TED Talks show, is there any 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;correlation between languages and views, what TED Event has the most amount of TED Talks publish on the website, and many 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;more. I also Analyze TED talks by years, months, and days.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;correlation between languages and views, what TED Event has the most amount of TED Talks publish on the website, and 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;many more. I also Analyze TED talks by years, months, and days.<br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titanic**<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Data%20Exploratory/Titanic%20-%20Exploratory%20Data%20Analysis.ipynb)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summary of it. *Fun Fact:Titanic dataset was not the first dataset I actually worked on. Majority of beginner actually start 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;learning on the dataset.*<br />  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By doing exploratory analysis of Titanic dataset we can conclude that, gender played a big role into who survive and who 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;does not. In fact, female had 74 percent chance of surviving compared to 19 percent for male. Another factor was Pclass, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;which is the ticket class. There were three classes we had to analyze. We found that people in 3rd class had the highest 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;chance of surviving followed by 1st and 2nd class. Female also had the highest rate of survival in all three classes 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;compared to males.<br />
+*Fun Fact:Titanic dataset was not the first dataset I actually worked on. Majority of beginner actually start learning on the dataset.*<br />  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**NBA Stats - Los Angeles Lakers**<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Data%20Exploratory/NBA%20Stats%20-%20Los%20Angeles%20Lakers.ipynb)<br />
