@@ -30,10 +30,10 @@ Here are the projects that I have worked on outside of school and work. Projects
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By doing exploratory analysis of Titanic dataset we can conclude that, gender played a big role into who survive and who 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;does not. In fact, female had 74 percent chance of surviving compared to 19 percent for male. Another factor was Pclass, 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;which is the ticket class. There were three classes we had to analyze. We found that people in 3rd class had the highest 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;chance of surviving followed by 1st and 2nd class. Female also had the highest rate of survival in all three classes compared 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to males.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Fun Fact:Titanic dataset was not the first dataset I actually worked on. Majority of beginner actually start learning on 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the dataset.*<br />  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;chance of surviving followed by 1st and 2nd class. Female also had the highest rate of survival in all three classes 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;compared to males.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Fun Fact:Titanic dataset was not the first dataset I actually worked on. Majority of beginner actually start learning on the 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dataset.*<br />  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**NBA Stats - Los Angeles Lakers**<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Data%20Exploratory/NBA%20Stats%20-%20Los%20Angeles%20Lakers.ipynb)<br />
