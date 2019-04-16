@@ -19,7 +19,11 @@ Here are the projects that I have worked on outside of school and work. Projects
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TED Talks**<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Data%20Exploratory/TED%20Talks%20-%20Exploratory%20Data%20Analysis.ipynb)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Working on it.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is my first data exploratory project. I had to learn many new things while working on this project. Big thanks and the 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;credit goes to Rounak Banik for the inspiration. In this project I answer question such as, most funny TED Talks show,  with 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what occupation can you increase you chances of being a TED Talk speaker, most inspiring TED Talks show, is there any 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;correlation between languages and views, what TED Event has the most amount of TED Talks publish on the website, and many 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;more. I also Analyze TED talks by years, months, and days.<br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titanic**<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Data%20Exploratory/Titanic%20-%20Exploratory%20Data%20Analysis.ipynb)<br />
