@@ -5,25 +5,13 @@ Here are the projects that I have worked on outside of school and work. Projects
 
 ## Exploratory Analysis
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TMDB 5000 Movies**<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Data%20Exploratory/IMDB%20Movies%20-%20Exploratory%20Data%20Analysis.ipynb)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The main purpose of this project, 'IMDB Movies' was to perform data exploration and determined what makes a movie 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blockbuster. Along the way, I answer questions that I come across while doing data exploration such as what is average 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;profit for the most profitable movies? what are the languages of the most profitable movies?, what is average budget for 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;profitable movies? and what is the average duration of top 5 most profitable movie? In the end, I am able to predict 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what qualities makes a movie blockbuster. For a movie to be a blockbuster it must have genres as either drama, comedy, 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thriller, action, or adventure. Some of these casts such as Samuel L. Jackson, Robert De Niro, Bruce Willis, Matt Damon, 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Morgan Freeman. The average runtime should be around 111 minutes. The movie must be in these languages: 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English, Français, Español, Deutsch, and Pусский. The average budget must be around 43 million dollars. It a movie has 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;all of those things, on average the movie will have a profit of around 111 million dollars.<br />
+**TMDB 5000 Movies**<br />
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Data%20Exploratory/IMDB%20Movies%20-%20Exploratory%20Data%20Analysis.ipynb)<br />
+The main purpose of this project, 'IMDB Movies' was to perform data exploration and determined what makes a movie blockbuster. Along the way, I answer questions that I come across while doing data exploration such as what is average profit for the most profitable movies? what are the languages of the most profitable movies?, what is average budget for profitable movies? and what is the average duration of top 5 most profitable movie? In the end, I am able to predict what qualities makes a movie blockbuster. For a movie to be a blockbuster it must have genres as either drama, comedy, thriller, action, or adventure. Some of these casts such as Samuel L. Jackson, Robert De Niro, Bruce Willis, Matt Damon, and Morgan Freeman. The average runtime should be around 111 minutes. The movie must be in these languages: English, Français, Español, Deutsch, and Pусский. The average budget must be around 43 million dollars. It a movie has all of those things, on average the movie will have a profit of around 111 million dollars.<br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TED Talks**<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Data%20Exploratory/TED%20Talks%20-%20Exploratory%20Data%20Analysis.ipynb)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is my first data exploratory project. I had to learn many new things while working on this project. Big thanks and the 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;credit goes to Rounak Banik for the inspiration. In this project I answer question such as, most funny TED Talks show,  with 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what occupation can you increase you chances of being a TED Talk speaker, most inspiring TED Talks show, is there any 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;correlation between languages and views, what TED Event has the most amount of TED Talks publish on the website, and 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;many more. I also Analyze TED talks by years, months, and days.<br />
+**TED Talks**<br />
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Data%20Exploratory/TED%20Talks%20-%20Exploratory%20Data%20Analysis.ipynb)<br />
+This is my first data exploratory project. I had to learn many new things while working on this project. Big thanks and the credit goes to Rounak Banik for the inspiration. In this project I answer question such as, most funny TED Talks show, with what occupation can you increase you chances of being a TED Talk speaker, most inspiring TED Talks show, is there any correlation between languages and views, what TED Event has the most amount of TED Talks publish on the website, and many more. I also Analyze TED talks by years, months, and days.<br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titanic**<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Data%20Exploratory/Titanic%20-%20Exploratory%20Data%20Analysis.ipynb)<br />
