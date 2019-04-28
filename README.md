@@ -3,7 +3,7 @@
 
 Here are the projects that I have worked on outside of school and work. Projects below consist of Data Exploration, Web Scraping, Machine Learning, and Tableau.
 
-## Exploratory Analysis
+## ▣ Exploratory Analysis
 
 **TMDB 5000 Movies**<br />
 [Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Data%20Exploratory/IMDB%20Movies%20-%20Exploratory%20Data%20Analysis.ipynb)<br />
@@ -22,7 +22,7 @@ By doing exploratory analysis of Titanic dataset we can conclude that, gender pl
 [Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Data%20Exploratory/NBA%20Stats%20-%20Los%20Angeles%20Lakers.ipynb)<br />
 The main purpose of this project was to perform data exploration and find best 3-Point and Free Throw shooters Los Angeles Lakers should consider signing in the summer of 2019. I determined best shooters the Lakers should consider based on the player's stats in 2017 season. I imported the list of players that will be free agents in 2019 from the project called, '2019 NBA Free Agents' and made a list of players Lakers should go after in 2019. <br />
 
-## Web Scraping
+## ▣ Web Scraping
 
 **2019 NBA Free Agents**<br />
 [Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Web%20Scraping/2019%20NBA%20Free%20Agents%20-%20Web%20Scraping.ipynb)<br />
@@ -32,7 +32,7 @@ For this project, 2019 NBA Free Agents I wanted to practice my web scrapping ski
 [Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Web%20Scraping/IMDB%20Movies%20-%20Web%20Scraping.ipynb)<br />
 For this project, IMDB Movies, I wanted to practice my web scrapping skills using BeautifulSoup. I scraped movies from the year 2000 to 2018. I used the 'IMDb' site to scrap information such as movie names, the year it came out, IMDB ratings, metascore, and the number of votes. Please feel free to click on the link above to see how I web scraped the site.<br />
 
-## Visualization - Tableau
+## ▣ Visualization - Tableau
 
 **Project 1**<br />
 [Interactive Dashboard](link)<br />
