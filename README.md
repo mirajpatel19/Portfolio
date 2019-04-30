@@ -39,15 +39,11 @@ For this project, IMDB Movies, I wanted to practice my web scrapping skills usin
 
 ## ▣ Visualization - Tableau
 
-**Project 1**<br />
-[Interactive Dashboard](link)<br />
-Working on it.<br />
+**Economic value of the bicycle industry in UK**<br />
+[Interactive Dashboard](https://public.tableau.com/views/EconomicvalueofthebicycleindustryinUK_1/Dashboard1?:embed=y&:display_count=yes)<br />
 
-**Project 2**<br />
-[Interactive Dashboard](link)<br />
-Working on it.<br />
+**Investment Per States in Turbines**<br />
+[Interactive Dashboard](https://public.tableau.com/views/InstalledCapacityforEachStatesinUnitedStatesVersion2/InvestmentPerStatesinTurbines?:embed=y&:display_count=yes)<br />
 
-**Project 3**<br />
-[Interactive Dashboard](link)<br />
-Working on it.<br />
-
+**Total Attendance From Year 2001 to 2017**<br />
+[Interactive Dashboard](https://public.tableau.com/views/TotalAttendanceFromYear2001to2017/Dashboard13?:embed=y&:display_count=yes)<br />
