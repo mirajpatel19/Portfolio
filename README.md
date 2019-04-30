@@ -3,6 +3,11 @@
 
 Here are the projects that I have worked on outside of school and work. Projects below consist of Data Exploration, Web Scraping, Machine Learning, and Tableau.
 
+## ▣ Machine Learning
+
+**Salary Predictions**<br />
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Machine%20Learning/Salary%20Prediction.ipynb)<br />
+
 ## ▣ Exploratory Analysis
 
 **TMDB 5000 Movies**<br />
