@@ -6,7 +6,13 @@ Here are the projects that I have worked on outside of school and work. Projects
 ## ▣ Machine Learning
 
 **Salary Predictions**<br />
-[Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Machine%20Learning/Salary%20Prediction.ipynb)<br />
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Machine%20Learning/Salary%20Predictions/Salary%20Prediction.ipynb)<br />
+
+**House Prices Predictions**<br />
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Machine%20Learning/House%20Prices%20Predictions/Boston%20Housing.ipynb)<br />
+
+**Movie Review Sentiment Analysis(NLP)**<br />
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Machine%20Learning/NPL/Movie%20Review%20Sentiment%20Analysis%28NLP%29.ipynb)<br />
 
 ## ▣ Exploratory Analysis
 
