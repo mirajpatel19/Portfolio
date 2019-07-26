@@ -11,7 +11,7 @@ Here are the projects that I have worked on outside of school and work. Projects
 **House Prices Predictions**<br />
 [Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Machine%20Learning/House%20Prices%20Predictions/Boston%20Housing.ipynb)<br />
 
-**Movie Review Sentiment Analysis(NLP)**<br />
+**Restaurant Review Sentiment Analysis(NLP)**<br />
 [Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Machine%20Learning/NPL/Movie%20Review%20Sentiment%20Analysis%28NLP%29.ipynb)<br />
 
 ## ▣ Exploratory Analysis
