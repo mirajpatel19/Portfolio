@@ -12,7 +12,7 @@ Here are the projects that I have worked on outside of school and work. Projects
 [Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Machine%20Learning/House%20Prices%20Predictions/Boston%20Housing.ipynb)<br />
 
 **Restaurant Review Sentiment Analysis(NLP)**<br />
-[Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Machine%20Learning/NPL/Movie%20Review%20Sentiment%20Analysis%28NLP%29.ipynb)<br />
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/mirajpatel19/Portfolio/blob/master/Projects/Machine%20Learning/NPL/Restaurant%20Review%20Sentiment%20Analysis%28NLP%29.ipynb)<br />
 
 ## ▣ Exploratory Analysis
 
